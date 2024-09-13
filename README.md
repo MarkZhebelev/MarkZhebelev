@@ -27,7 +27,7 @@ I'm Mark Zhebelev, a frontend developer 🚀
   <img src="assets/icons/mobx_icon.png" alt="MobX" width="40" height="40"/>
 
   <!-- HTML -->
-  <img src="assets/icons/" alt="HTML" width="40" height="40"/>
+  <img src="assets/icons/html.png" alt="HTML" width="40" height="40"/>
 
   <!-- CSS -->
   <img src="assets/icons/css_icon.png" alt="CSS" width="40" height="40"/>
