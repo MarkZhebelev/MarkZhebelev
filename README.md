@@ -1,6 +1,5 @@
 <div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
-  <h1 style="margin: 0;">Hi 👋</h1>
-  <img src="https://media.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.gif" alt="GIF" width="30" height="30" />
+ <h1 style="margin: 0;">Hi <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" alt="GIF" width="30" height="30" /></h1>
 </div>
 
 I'm Mark Zhebelev, a frontend developer 🚀
