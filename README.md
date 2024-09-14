@@ -6,59 +6,6 @@ I'm Mark Zhebelev, a frontend developer 🚀
 
 ---
 
-### My Tech Stack
-
-<div style="display: flex; align-items: center; justify-content: center; gap: 15px; flex-wrap: wrap;">
-
-  <!-- JavaScript -->
-  <img src="assets/icons/javascript_icon.png" alt="JavaScript" width="40" height="40"/>
-
-  <!-- TypeScript -->
-  <img src="assets/icons/typescript_icon.png" alt="TypeScript" width="40" height="40"/>
-
-  <!-- React -->
-  <img src="assets/icons/react_icon.png" alt="React" width="40" height="40"/>
-
-  <!-- Redux -->
-  <img src="assets/icons/redux_icon.png" alt="Redux" width="40" height="40"/>
-
-  <!-- MobX -->
-  <img src="assets/icons/mobx_icon.png" alt="MobX" width="40" height="40"/>
-
-  <!-- HTML -->
-  <img src="assets/icons/html.png" alt="HTML" width="40" height="40"/>
-
-  <!-- CSS -->
-  <img src="assets/icons/css_icon.png" alt="CSS" width="40" height="40"/>
-
-  <!-- SASS/SCSS -->
-  <img src="assets/icons/sass_icon.png" alt="SCSS" width="40" height="40"/>
-
-  <!-- Docker -->
-  <img src="assets/icons/docker_icon.png" alt="Docker" width="40" height="40"/>
-
-  <!-- Node.js -->
-  <img src="assets/icons/node_icon.png" alt="Node.js" width="40" height="40"/>
-
-  <!-- Material-UI -->
-  <img src="assets/icons/uimaterial_icon.png" alt="Material UI" width="40" height="40"/>
-
-  <!-- Git -->
-  <img src="assets/icons/git_icon.png" alt="Git" width="40" height="40"/>
-
-  <!-- Jira -->
-  <img src="assets/icons/jira_icon.png" alt="Jira" width="40" height="40"/>
-
-  <!-- Figma -->
-  <img src="assets/icons/figma_icon.png" alt="Figma" width="40" height="40"/>
-
-  <!-- Postman -->
-  <img src="assets/icons/postman_icon.png" alt="Postman" width="40" height="40"/>
-
-</div>
-
----
-
 ### 📫 Contact Me
 
 <div style="display: flex; gap: 15px; align-items: center;">
